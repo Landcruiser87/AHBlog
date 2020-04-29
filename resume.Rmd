@@ -1,8 +1,5 @@
 ---
 title: "Resume"
-author: "Andy Heroy"
-date: "April 28, 2020"
-output: html
 ---
 
 Here is my resume!  Its been written in LaTeX because why not. Link to download it is below.  

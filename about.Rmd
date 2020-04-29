@@ -1,8 +1,5 @@
 ---
 title: "About"
-author: "Andy Heroy"
-date: "April 28, 2020"
-output: html
 ---
 
 Greetings everyone and welcome to my about page.  For starters, i'm a newly graduated data scientist who's actively seeking employment. Feel free to reach out with any opportunities. 

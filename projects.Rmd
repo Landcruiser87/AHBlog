@@ -1,8 +1,5 @@
 ---
 title: "Projects"
-author: "Andy Heroy"
-date: "April 28, 2020"
-output: html
 ---
 
 This page is under construction. 

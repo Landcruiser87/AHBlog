@@ -10,7 +10,3 @@ output:
 
 Greetings everyone and welcome to my blog.  Here you will find my resume, various mental musings and some projects that i've implemented in my career in Data Science.  I hope you enjoy the content and feel free to reach out with any employment opportunities. 
 
-This forked version is a mess.
-
-Maybe now it will render. 
-

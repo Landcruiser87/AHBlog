@@ -13,7 +13,7 @@ navbar:
 
 output:
   html_document:
-    theme: united
+    theme: paper
     highlight: textmate
 #    include:
 #      after_body: _footer.html

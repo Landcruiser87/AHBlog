@@ -1,19 +1,26 @@
-name: "R Markdown Websites Tutorial"
+name: "Andy Heroy Data Scientist"
 navbar:
   title: "HOME"
   left:
-    - text: "First Observations"
-      href: first_observations.html
-    - text: "Basic Workflow"
-      href: basic_workflow.html
-    - text: "Getting Sophisticated"
-      href: getting_sophisticated.html
-    - text: "Your Turn"
-      href: your_turn.html
+    - text: "About"
+      href: about.html
+    - text: "Resume"
+      href: resume.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Contact"
+      href: contact.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/Landcruiser87
+    - icon: <i class="fab fa-linkedin-in"></i>
+      href: https://www.linkedin.com/in/data-science-and/y
 output_dir: "."
 output:
   html_document:
-    theme: yeti
+    theme: united
     highlight: textmate
 #    include:
 #      after_body: _footer.html

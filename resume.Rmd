@@ -1,0 +1,15 @@
+---
+title: "Resume"
+author: "Andy Heroy"
+date: "April 28, 2020"
+output: html
+---
+
+Here is my resume!  Its been written in LaTeX because why not. Link to download it is below.  
+
+
+<center><img src="images/Resume1.png" width="1000px"></center>
+<center><img src="images/Resume2.png" width="1000px"></center>
+<center><img src="images/Resume3.png" width="1000px"></center>
+
+[Andy Heroy Resume Download Link](./resume/AndyHeroyResume2020.pdf)

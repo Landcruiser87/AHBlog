@@ -1,0 +1,46 @@
+---
+title: "About"
+author: "Andy Heroy"
+date: "April 28, 2020"
+output: html
+---
+
+Greetings everyone and welcome to my about page.  For starters, i'm a newly graduated data scientist who's actively seeking employment. Feel free to reach out with any opportunities. 
+
+
+## Where I've lived. 
+
+```{r PlacesLived}
+
+## Input plotly map of previous towns you've lived. 
+## maybe ggplot
+
+```
+
+
+
+
+## Things that peak my interest/take up my time.
+
+  - Python
+  - R
+  - Machine Learning 
+  - Deep Learning
+  - Visualizations
+  - Database Administration
+  - Dashboards are awesome
+  - Golf
+  - Travel
+  - Home Exercise
+  - Rhodesian Ridgebacks
+  - Fighting covid through Data Science
+
+## Brief Timeline
+
+  - 2004 - Graduate from Kenyon College 
+  - 2004 - Work for a Toyota Atlantic Race Team in San Francisco
+  - 2007 - New job at Cleveland Golf in Huntington Beach, CA
+  - 2011 - New job at Titleist and move to Carlsbad, CA
+  - 2015 - New job at Cobra-Puma Golf in Carlsbad, CA
+  - 2018 - Move to Nebraska and start graduate school at SMU in Data Science
+  - 2020 - Graduate and move too.......?

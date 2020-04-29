@@ -10,14 +10,7 @@ navbar:
       href: projects.html
     - text: "Contact"
       href: contact.html
-  right:
-    - icon: fa-envelope fa-lg
-      href: contact.html
-    - icon: fa-github fa-lg
-      href: https://github.com/Landcruiser87
-    - icon: <i class="fab fa-linkedin-in"></i>
-      href: https://www.linkedin.com/in/data-science-and/y
-output_dir: "."
+
 output:
   html_document:
     theme: united

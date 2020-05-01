@@ -1,7 +1,7 @@
-﻿Place,City,State,Lat,Long,Year
-High School,Angola,IN,41.634781,-85.003998,<2000
-College,Gambier,OH,40.375931,-82.39521,2000-2004
-1stJob!,San Francisco,CA,37.774929,-122.419418,2004-2005
-ClevelandGolf,Huntington Beach,CA,33.659485,-117.998802,2005-2012
-Titleist,Carlsbad,CA,33.166039,-117.337929,2012-2017
-CornHuskin,Lincoln,NE,40.80867,-96.707032,2018-Present
+﻿Place,City,State,Lat,Long,Year,cnt
+High School,Angola,IN,41.634781,-85.003998,<2000,18
+College,Gambier,OH,40.375931,-82.39521,2000-2004,4
+1stJob!,San Francisco,CA,37.774929,-122.419418,2004-2005,1
+ClevelandGolf,Huntington Beach,CA,33.659485,-117.998802,2005-2012,7
+Titleist,Carlsbad,CA,33.166039,-117.337929,2012-2017,5
+CornHuskin,Lincoln,NE,40.80867,-96.707032,2018-Present,2

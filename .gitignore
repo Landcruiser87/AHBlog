@@ -2,6 +2,7 @@
 # History files
 .Rhistory
 .Rapp.history
+/data/scrap.Rmd
 
 # Session Data files
 .RData

@@ -314,8 +314,7 @@ $(document).ready(function () {
 
 
 <p>Greetings everyone and welcome to my about page. For starters, i’m a newly graduated data scientist who’s actively seeking employment. Feel free to reach out with any opportunities.</p>
-<div id="where-ive-lived." class="section level2">
-<h2>Where I’ve lived.</h2>
+<p>To start us off, I’ve included a quick ggplot2 chart (my favorite graphing library) of places I’ve lived in my life.</p>
 <pre class="r"><code>shhhh &lt;- suppressPackageStartupMessages
 
 shhhh(library(tidyverse))
@@ -329,9 +328,8 @@ colnames(df) &lt;- c(&quot;Place&quot;,&quot;City&quot;,&quot;State&quot;,&quot;
 US &lt;- map_data(&quot;world&quot;) %&gt;% filter(region==&quot;USA&quot;)
 
 ggplot() + 
-  geom_polygon(data = US, aes(x=long, y = lat, group = group), fill=&quot;grey&quot;, alpha=0.3) + geom_point(data=df, aes(x=Long, y=Lat, size=cnt, color=cnt)) + coord_map() + ylim(20,50) + xlim(-130,-60) + labs(color=&quot;years&quot;) + scale_size_continuous(guide = FALSE) + theme(legend.position = c(0.9,0.4))</code></pre>
+  geom_polygon(data = US, aes(x=long, y = lat, group = group), fill=&quot;grey&quot;, alpha=0.3) + geom_point(data=df, aes(x=Long, y=Lat, size=cnt, color=cnt)) + coord_map() + ylim(20,50) + xlim(-130,-60) + labs(title=&quot;Where I&#39;ve called home&quot;,color=&quot;years&quot;) + scale_size_continuous(guide = FALSE) + theme(legend.position = c(0.9,0.4))</code></pre>
 <p><img src="about_files/figure-html/PlacesLived-1.png" width="672" /></p>
-</div>
 <div id="things-that-peak-my-interesttake-up-my-time." class="section level2">
 <h2>Things that peak my interest/take up my time.</h2>
 <ul>

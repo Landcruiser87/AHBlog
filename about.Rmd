@@ -25,9 +25,9 @@ colnames(df) <- c("Place","City","State","Lat","Long","Year","cnt")
 US <- map_data("world") %>% filter(region=="USA")
 
 ggplot() + 
- geom_polygon(data = US, aes(x=long, y = lat, group = group), fill="grey", alpha=0.3) +
+ geom_polygon(data = US, aes(x=long, y = lat, group = group), fill="grey", alpha=0.6) +
  geom_point(data=df, aes(x=Long, y=Lat, size=cnt, color=cnt)) +
- geom_text(aes(x=df$Long, y=df$Lat,label=df$City), size=3, nudge_x=0, nudge_y=1.3, check_overlap = T) +
+ geom_text(data=df, aes(x=Long, y=Lat,label=City), size=3, nudge_x=0, nudge_y=1.3, check_overlap = T) +
  coord_map() +
  ylim(20,50) +
  xlim(-130,-60) +

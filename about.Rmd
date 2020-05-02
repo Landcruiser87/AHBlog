@@ -59,7 +59,7 @@ ggplot() +
 
 ## Brief Timeline
 
-  - 2004 - Graduate from Kenyon College 
+  - 2004 - Graduate from Kenyon College with BA in Physics
   - 2004 - Work for a Toyota Atlantic Race Team in San Francisco
   - 2007 - New job at Cleveland Golf in Huntington Beach, CA
   - 2011 - New job at Titleist and move to Carlsbad, CA

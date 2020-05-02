@@ -5,6 +5,10 @@ title: "Projects"
 I'm still going through python projects and refactoring them to be used in rmd format.  But some quick links to previous projects completed while in attendance at SMU can be found on my github.
 
 1.  [Analysis of Cherry Blossom 10 Mile Race](https://github.com/Landcruiser87/7333_QTW/blob/master/CaseStudy4/Analysis/Blossom.html)
+    * Download HTML and open in browser to view.  File too large to host on Github.
+
 2.  [Obesity Study](https://github.com/Landcruiser87/6372_StatsProj2_asea/blob/master/Health-Analysis.html)
-    * Full writeup in word can be found here [Writeup](https://github.com/Landcruiser87/6372_StatsProj2_asea/blob/master/asea_StatsProj2.docx)
+    * Download HTML and open in browser to view.  File too large to host Github.
+    * Full writeup in word can be found here:  [Writeup](https://github.com/Landcruiser87/6372_StatsProj2_asea/blob/master/asea_StatsProj2.docx)
+
 3.  [Coffee Study](https://github.com/Landcruiser87/Cadc_7331_Project/blob/master/analysis/coffeeandy.ipynb)

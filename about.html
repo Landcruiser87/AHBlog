@@ -328,7 +328,14 @@ colnames(df) &lt;- c(&quot;Place&quot;,&quot;City&quot;,&quot;State&quot;,&quot;
 US &lt;- map_data(&quot;world&quot;) %&gt;% filter(region==&quot;USA&quot;)
 
 ggplot() + 
-  geom_polygon(data = US, aes(x=long, y = lat, group = group), fill=&quot;grey&quot;, alpha=0.3) + geom_point(data=df, aes(x=Long, y=Lat, size=cnt, color=cnt)) + coord_map() + ylim(20,50) + xlim(-130,-60) + labs(title=&quot;Where I&#39;ve called home&quot;,color=&quot;years&quot;) + scale_size_continuous(guide = FALSE) + theme(legend.position = c(0.9,0.4))</code></pre>
+ geom_polygon(data = US, aes(x=long, y = lat, group = group), fill=&quot;grey&quot;, alpha=0.3) +
+ geom_point(data=df, aes(x=Long, y=Lat, size=cnt, color=cnt)) +
+ coord_map() +
+ ylim(20,50) +
+ xlim(-130,-60) +
+ labs(title=&quot;Where I&#39;ve called home&quot;,color=&quot;years&quot;) +
+ scale_size_continuous(guide = FALSE) +
+ theme(legend.position = c(0.9,0.4))</code></pre>
 <p><img src="about_files/figure-html/PlacesLived-1.png" width="672" /></p>
 <div id="things-that-peak-my-interesttake-up-my-time." class="section level2">
 <h2>Things that peak my interest/take up my time.</h2>

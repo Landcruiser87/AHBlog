@@ -6,5 +6,5 @@ I'm still going through python projects and refactoring them to be used in rmd f
 
 1.  [Analysis of Cherry Blossom 10 Mile Race](file:///C:/githubrepo/7333_QTW/CaseStudy4/Analysis/Blossom.html)
 2.  [Obesity Study](file:///C:/githubrepo/6372_StatsProj2_asea/Health-Analysis.html)
-  * Full writeup in word can be found here [Writeup](https://github.com/Landcruiser87/6372_StatsProj2_asea/blob/master/asea_StatsProj2.docx)
+    * Full writeup in word can be found here [Writeup](https://github.com/Landcruiser87/6372_StatsProj2_asea/blob/master/asea_StatsProj2.docx)
 3.  [Coffee Study](https://github.com/Landcruiser87/Cadc_7331_Project/blob/master/analysis/coffeeandy.ipynb)

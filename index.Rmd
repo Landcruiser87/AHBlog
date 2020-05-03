@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog!"
+title: "Welcome to my Website!"
 author:  "[Andy Heroy](https://github.com/Landcruiser87) at [SMU](https://datascience.smu.edu/)"
 output:
   html_document:

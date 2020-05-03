@@ -42,7 +42,7 @@ ggplot() +
 
 
 ```
-## Things that peak my interest/take up my time.
+## Things that pique my interest/take up my time.
 
   - Python
   - R

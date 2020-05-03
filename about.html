@@ -325,18 +325,16 @@ df &lt;- read.csv(&#39;https://raw.githubusercontent.com/Landcruiser87/Andy_Hero
 
 colnames(df) &lt;- c(&quot;Place&quot;,&quot;City&quot;,&quot;State&quot;,&quot;Lat&quot;,&quot;Long&quot;,&quot;Year&quot;,&quot;cnt&quot;)
 
-US &lt;- map_data(&quot;world&quot;) %&gt;% filter(region==&quot;USA&quot;)
-
-ggplot() + 
- geom_polygon(data = US, aes(x=long, y = lat, group = group), fill=&quot;grey&quot;, alpha=0.6) +
+states &lt;- map_data(&quot;state&quot;)
+ggplot(data = states) + 
+ geom_polygon(data = states, aes(x=long, y = lat, color=&quot;grey&quot;, group = group), alpha=.2, color=&quot;white&quot;) +
  geom_point(data=df, aes(x=Long, y=Lat, size=cnt, color=cnt)) +
  geom_text(data=df, aes(x=Long, y=Lat,label=City), size=3, nudge_x=0, nudge_y=1.3, check_overlap = T) +
  coord_map() +
- ylim(20,50) +
- xlim(-130,-60) +
+ guides(fill=FALSE) +
  labs(title=&quot;Where I&#39;ve called home&quot;,color=&quot;years&quot;) +
  scale_size_continuous(guide = FALSE) +
- theme(legend.position = c(0.9,0.4))</code></pre>
+ theme(legend.position = c(0.9,0.3))</code></pre>
 <p><img src="about_files/figure-html/PlacesLived-1.png" width="672" /></p>
 <div id="things-that-pique-my-interesttake-up-my-time." class="section level2">
 <h2>Things that pique my interest/take up my time.</h2>

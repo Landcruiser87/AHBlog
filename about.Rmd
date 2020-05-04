@@ -5,10 +5,10 @@ output:
     code_folding: hide
 ---
 
-After graduating from SMU's Data Science Masters program in May 2020, I'm actively job searching so feel free to reach out with any employment opportunities. 
+Here you'll find some basic information about myself.  After graduating from SMU's Data Science Masters program in May 2020, I'm actively job searching so feel free to reach out with any employment opportunities. 
 
 
-To start us off, I've included a quick ggplot2 chart (my favorite graphing library) of places I've lived in my life. 
+I've included a quick ggplot2 chart (my favorite graphing library) of places I've lived in my life. 
 
 
 ```{r PlacesLived}

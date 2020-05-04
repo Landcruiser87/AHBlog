@@ -4,6 +4,10 @@
 .Rapp.history
 /data/scrap.Rmd
 
+# Temp Analysis
+/data/Dash.xlsx
+/data/~$Dash.xlsx
+
 # Session Data files
 .RData
 

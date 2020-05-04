@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-I'm still going through python projects and refactoring them to be used in rmd format.  But some quick links to previous projects completed while in attendance at SMU can be found on my github.
+I'm still going through python projects and refactoring them to be used in rmd format.  But some quick links to previous projects completed while in attendance at SMU can be found on below and on my [GitHub](https://github.com/Landcruiser87) page.
 
 
 1.  Capstone Project - Stationary Exercise Classification using IMUs Deep Learning

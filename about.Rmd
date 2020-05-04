@@ -5,7 +5,7 @@ output:
     code_folding: hide
 ---
 
-Greetings everyone and welcome to my about page.  For starters, i'm a newly graduated data scientist who's actively seeking employment. Feel free to reach out with any opportunities. 
+After graduating from SMU's Data Science Masters program in May 2020, I'm actively job searching so feel free to reach out with any employment opportunities. 
 
 
 To start us off, I've included a quick ggplot2 chart (my favorite graphing library) of places I've lived in my life. 
@@ -39,8 +39,8 @@ ggplot(data = states) +
 
 ## Things that pique my interest/take up my time.
 
-  - Python
-  - R
+  - Object Oriented Python
+  - Statistical Analysis in R
   - Machine Learning 
   - Deep Learning
   - Visualizations
@@ -61,3 +61,6 @@ ggplot(data = states) +
   - 2015 - New job at Cobra-Puma Golf in Carlsbad, CA
   - 2018 - Move to Nebraska and start graduate school at SMU in Data Science
   - 2020 - Graduate and move too.......?
+
+
+

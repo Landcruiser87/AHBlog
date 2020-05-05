@@ -1,20 +1,24 @@
 ---
 title: "Projects"
+output: html_document
 ---
 
 I'm still going through python projects and refactoring them to be used in rmd format.  But some quick links to previous projects completed while in attendance at SMU can be found on below and on my [GitHub](https://github.com/Landcruiser87) page.
 
 
 1.  Capstone Project - Stationary Exercise Classification using IMUs Deep Learning
+
     * [Capstone Paper](https://scholar.smu.edu/datasciencereview/vol3/iss1/1/)
     * [Capstone PowerPoint](https://github.com/Landcruiser87/Capstone_Project/blob/master/pres/PRESENTATION_Stationary_Exercise_Classification_using_IMUs_Deep_Learning_DS6130.pptx)
 
-2.  [Analysis of Cherry Blossom 10 Mile Race](https://github.com/Landcruiser87/7333_QTW/blob/master/CaseStudy4/Analysis/Blossom.html)
-    * Download HTML and open in browser to view.  File too large to view on Github.
+2.  [Analysis of Cherry Blossom 10 Mile Race](./projectfolder/Blossom.html)
 
-3.  [Obesity Study](https://github.com/Landcruiser87/6372_StatsProj2_asea/blob/master/Health-Analysis.html)
-    * Download HTML and open in browser to view.  File too large to view on Github.
-    * Full writeup in word can be found here:  [Writeup](https://github.com/Landcruiser87/6372_StatsProj2_asea/blob/master/asea_StatsProj2.docx)
+3.  [Obesity Study](./projectfolder/Health-Analysis.html)
 
+    * Full writeup in word can be found here: [Writeup](https://github.com/Landcruiser87/6372_StatsProj2_asea/blob/master/asea_StatsProj2.docx)
+    
 4.  [Coffee Study](https://github.com/Landcruiser87/Cadc_7331_Project/blob/master/analysis/coffeeandy.ipynb)
+
+5.  [Time Series Analysis of Crox Stock](./projectfolder/Case_Study_8_Crox_stock_ARIMA_analysis.html)
+
 

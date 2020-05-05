@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my website!"
+title: "Portfolio webpage"
 author:  "[Andy Heroy](https://github.com/Landcruiser87) from [SMU](https://datascience.smu.edu/)"
 output:
   html_document:
@@ -9,7 +9,7 @@ output:
 ----
 
 
-Greetings everyone and welcome to my home page.  Here you will find my resume, various mental musings, some information about me, and projects that i've implemented in my education in Data Science at Southern Methodist University and beyond.  I hope you enjoy the content and feel free to reach out with any employment opportunities. 
+Greetings and welcome to my home page.  Here you will find my resume, various mental musings, some information about me, and projects that i've implemented in my education in Data Science at Southern Methodist University and beyond.  I hope you enjoy the content and feel free to reach out with any employment opportunities. 
 
 <center><img src="images/Profile.jpg" width="500x"></center>
 

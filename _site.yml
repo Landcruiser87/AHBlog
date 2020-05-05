@@ -17,6 +17,8 @@ navbar:
       href: https://github.com/Landcruiser87
     - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/data-science-andy/
+    - icon: fa-facebook fa-lg
+      href: https://www.facebook.com/aheroy
 output_dir: "."
 output:
   html_document:

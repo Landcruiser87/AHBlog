@@ -1,5 +1,5 @@
 ---
-title: "Portfolio webpage"
+title: "Portfolio"
 author:  "[Andy Heroy](https://github.com/Landcruiser87) from [SMU](https://datascience.smu.edu/)"
 output:
   html_document:

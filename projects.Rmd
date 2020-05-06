@@ -14,16 +14,17 @@ I'm still going through python projects and refactoring them to be used in rmd f
     * [Capstone PowerPoint](./projectfolder/PRESENTATION_Stationary_Exercise_Classification_using_IMUs_Deep_Learning_DS6130.pptx)
 
 
-2.  [Analysis of Cherry Blossom 10 Mile Race](./projectfolder/Blossom.html)
-
-3.  [How does missing data effect ML Algorithms?](./projectfolder/CaseStudy10.html)
-
-4.  [Obesity Study](./projectfolder/Health-Analysis.html)
+2.  [Obesity Study](./projectfolder/Health-Analysis.html)
 
     * Full writeup in word can be found here:
     [Writeup](./projectfolder/asea_StatsProj2.docx)
 
 \vspace{2in}
+
+3.  [How does missing data effect ML Algorithms?](./projectfolder/CaseStudy10.html)
+
+4.  [Analysis of Cherry Blossom 10 Mile Race](./projectfolder/Blossom.html)
+
 5.  [Coffee Study](https://github.com/Landcruiser87/Cadc_7331_Project/blob/master/analysis/coffeeandy.ipynb)
 
 6.  [Time Series Analysis of Crox Stock](./projectfolder/Case_Study_8_Crox_stock_ARIMA_analysis.html)

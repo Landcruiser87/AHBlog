@@ -10,4 +10,6 @@ Here is my resume!  Its been written in LaTeX because why not. Link to download 
 <center><img src="images/Resume3.png" width="1000px"></center>
 
 
-[Andy Heroy Resume Download Link](./resume/AndyHeroyResume2020.pdf)
+[Andy Heroy Resume Download Link pdf format](./resume/AndyHeroyResume2020.pdf)
+
+[Andy Heroy Resume Download Link word format](./resume/AndyHeroyResume2020.doc)

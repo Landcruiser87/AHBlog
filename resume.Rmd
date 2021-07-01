@@ -2,7 +2,7 @@
 title: "Resume"
 ---
 
-Here is my resume!  Its been written in LaTeX because why not. Link to download it is below.  
+Here is my resume!  Its been written in LaTeX. Link to download it is below.  
 
 
 <center><img src="images/Resume1.png" width="1000px"></center>

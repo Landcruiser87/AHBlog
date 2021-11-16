@@ -59,7 +59,10 @@ ggplot(data = states) +
   - 2011 - New job at Titleist and move to Carlsbad, CA
   - 2015 - New job at Cobra-Puma Golf in Carlsbad, CA
   - 2018 - Move to Nebraska and start graduate school at SMU in Data Science
-  - 2020 - Graduate SMU and move too.......?
+  - 2020 - Graduate SMU and move to Michigan
+  - 2020 - Begin Job with US Air Force analyzing ECG data
+  - 2021 - Begin Job with USUHS 
+  
 
 
 

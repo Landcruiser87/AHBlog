@@ -40,6 +40,7 @@ ggplot(data = states) +
 
   - Object Oriented Python
   - Machine Learning 
+  - Signal Processing
   - Deep Learning
   - Fighting covid through Data Science
   - Visualizations
@@ -48,6 +49,7 @@ ggplot(data = states) +
   - Travel
   - Home Exercise
   - Rhodesian Ridgebacks
+  
 
 
 ## Brief Timeline

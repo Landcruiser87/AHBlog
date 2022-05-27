@@ -9,6 +9,6 @@ Here is my resume!  Its been written in LaTeX. Link to download it is below.
 <center><img src="images/Resume2.png" width="1000px"></center>
 <center><img src="images/Resume3.png" width="1000px"></center>
 
-[Andy Heroy Resume Download Link pdf format](./resume/AndyHeroyResume2021.pdf)
+[Andy Heroy Resume Download Link pdf format](./resume/AndyHeroyResume2022.pdf)
 
-[Andy Heroy Resume Download Link word format](./resume/AndyHeroyResume2021.docx)
+[Andy Heroy Resume Download Link word format](./resume/AndyHeroyResume2022.docx)
